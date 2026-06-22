@@ -1,2 +1,2 @@
-# advanced-css-responsive-portfolio
-A responsive portfolio website built using HTML, CSS3, Flexbox, CSS Grid, and media queries.A modern responsive portfolio website developed using advanced CSS3 concepts and responsive design techniques.
+# HTML5-SEMANTIC-STRUCTURE-AND-ACCESSIBILITY-
+The Accessible Personal Portfolio Website is a multi-page web application developed using modern HTML5 semantic elements and Web Content Accessibility Guidelines (WCAG). The website is structured to improve readability, accessibility, search engine optimization (SEO), and user experience for all users.
